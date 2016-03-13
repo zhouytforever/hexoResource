@@ -3,11 +3,12 @@ title: ubuntu下Maven安装配置
 date: 2016-03-13 12:49:51
 tags:
 - Maven
+- Ubuntu
 categories: Maven
 ---
 
 ## 下载
-1.	进入Maven的官网下载最新bin安装包：![Maven官网](https://maven.apache.org/configure.html "链接")![Maven官方下载页面](https://maven.apache.org/download.cgi "下载")
+1.	进入Maven的官网下载最新bin安装包：[Maven官网](https://maven.apache.org/configure.html "链接") [Maven官方下载页面](https://maven.apache.org/download.cgi "下载")
 
 2.	在下载页面选择 	*apache-maven-XX.XX.XX-bin.tar.gz* 
 	*<font color='red'>注意：一定要是Binary archive 不能是Source archive，也就是下载人家编译好的包</font>*
