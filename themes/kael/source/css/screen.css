@@ -78,34 +78,34 @@ h4, h5, h6 {
 }
 
 h1 {
-    font-size: 3.0rem;
+    font-size: 2.5rem;
     line-height: 1.2em;
     text-indent: -3px;
 
 }
 
 h2 {
-    font-size: 2.75rem;
+    font-size: 2.25rem;
     line-height: 1.5em;
     border-bottom: 1px solid #eee;
 
 }
 
 h3 {
-    font-size: 2.5rem;
+    font-size: 2.0rem;
 
 }
 
 h4 {
-    font-size: 2.25rem;
+    font-size: 1.75rem;
 }
 
 h5 {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 h6 {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
 
 a {
@@ -381,7 +381,7 @@ margin on the iframe, cause it breaks stuff. */
     position: relative;
     width:80%;
     max-width: 700px;
-    margin: 4rem auto;
+    margin: 3.5rem auto;
     padding-bottom: 4rem;
     border-bottom: #ddd 1.5px solid;
     word-break: break-word;
@@ -418,7 +418,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .post-content li {
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .tag-tile a {
@@ -523,7 +523,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .post-template .blog-title {
     display: inline-block;
-    padding: 2.5rem 0;
+    padding: 2.25rem 0;
 }
 
 /* Keep large images within the bounds of the post-width */
@@ -538,8 +538,10 @@ margin on the iframe, cause it breaks stuff. */
 
 
 .post p {
-    font-size: 18px;
+    font-size: 15px;
     line-height: 30px;
+    text-justify: inter-ideograph;
+    text-align: justify;
 }
 
 /* The author credit area after the post */
@@ -1078,7 +1080,7 @@ pre .chunk {
     .post-excerpt li,
     .post-content li,
     .post-content p {
-        font-size: 16px;
+        font-size: 15px;
         line-height: 27px;
     }
 
