@@ -70,4 +70,3 @@ theme: kael
 deploy:
   type: git
   repo: git@github.com:zhouytforever/zhouytforever.github.io.git
-  
