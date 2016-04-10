@@ -11,7 +11,7 @@ categories: JavaScript
 [深入理解javascript原型和闭包（2）——函数和对象的关系](http://www.cnblogs.com/wangfupeng1988/p/3978035.html)
 [深入理解javascript原型和闭包（3）——prototype原型](http://www.cnblogs.com/wangfupeng1988/p/3978131.html)
 [深入理解javascript原型和闭包（4）——隐式原型](http://www.cnblogs.com/wangfupeng1988/p/3979290.html)
-[深入理解javascript原型和闭包（5）——instanceof](深入理解javascript原型和闭包（5）——instanceof)
+[深入理解javascript原型和闭包（5）——instanceof](http://www.cnblogs.com/wangfupeng1988/p/3979533.html)
 [深入理解javascript原型和闭包（6）——继承](http://www.cnblogs.com/wangfupeng1988/p/3979985.html)
 [深入理解javascript原型和闭包（7）——原型的灵活性](http://www.cnblogs.com/wangfupeng1988/p/3980065.html)
 [深入理解javascript原型和闭包（8）——简述【执行上下文】上](http://www.cnblogs.com/wangfupeng1988/p/3986420.html)
