@@ -4,7 +4,7 @@ date: 2016-03-20 11:02:44
 tags:
 - Apache
 - Tomcat
-categories: Apache与tomcat
+categories: Apache与Tomcat
 ---
 在做项目的时候遇到了系统反应慢，并发量大的时候就会产生事务阻塞的情况。此时除了tomcat和jvm调优动静分离以及数据库分表等措施以外就要考虑做负载均衡与tomcat集群了。
 

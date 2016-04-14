@@ -1,9 +1,10 @@
 ---
-title: svn异常：svn cleanup failed–previous operation has not finished; run cleanup if it was interrupted
-tags: 
-- svn
-- 杂项
+title: Window下Svn异常
 date: 2015-05-28 09:46:00
+tags: 
+- Svn
+- 杂项
+categories: Svn
 ---
 
 今天svn同步时，

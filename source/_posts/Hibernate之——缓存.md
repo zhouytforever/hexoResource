@@ -3,7 +3,6 @@ title: Hibernate之——缓存
 date: 2016-03-31 14:15:22
 tags:
 - Hibernate
-- SSH
 categories: Hibernate
 ---
 

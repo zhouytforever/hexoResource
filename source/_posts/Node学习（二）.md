@@ -2,7 +2,7 @@
 title: Node学习（二）
 date: 2015-11-10 16:22:20
 tags:
-- Nodejs包
+- NodeJS包
 categories: Node
 ---
 ## package.json

@@ -1,9 +1,9 @@
 ---
 title: Oracle主键自动增加的方法与总结
-tags: 
-- oracle
-categories: Oracle
 date: 2014-04-05 23:06:00
+tags: 
+- Oracle
+categories: Oracle
 ---
 
 ## <span style="font-size: 19px; line-height: 27px; background-color: #ffff00;">第一步：添加主键（如果已有且是自己命名的可略过）</span>

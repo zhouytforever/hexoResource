@@ -1,5 +1,5 @@
 ---
-title: ubuntu下Maven安装配置
+title: Ubuntu下Maven安装配置
 date: 2016-03-13 12:49:51
 tags:
 - Maven

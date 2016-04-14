@@ -4,7 +4,7 @@ date: 2016-03-20 15:13:13
 tags:
 - Apache
 - Tomcat
-categories: Apache与tomcat
+categories: Apache与Tomcat
 ---
 上篇文章说到Apache与tomcat负载均衡（集群），下面我们来配置一下。
 坑爹的百度，每次搜索“Apache与tomcat集群”都是出来那几个国内比较烂的网址或者博客，看了诸多文章总结了以下几点：
