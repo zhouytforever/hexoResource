@@ -15,8 +15,8 @@ avatar: /uploads/avatar.jpg
 
 # rss feed
 feed:
-  type: atom
-  path: atom.xml
+  type: rss2
+  path: rss2
   limit: 20
   hub:
 
