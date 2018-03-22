@@ -1,9 +1,9 @@
 ---
-title: JavaScript对象和闭包
+title: JS对象和闭包
 date: 2016-04-10 18:08:24
 tags:
-- JavaScript
-categories: JavaScript
+- JS
+categories: JS
 ---
 看到一组关于JavaScript的原型和闭包的文章，在看之前果断收藏下来。
 
