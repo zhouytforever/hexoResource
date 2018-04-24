@@ -31,3 +31,11 @@ categories: Vue
 
 **我（想）：** 如果为了防止多引入东西而带来很多额外的使用困难，那这个组件库就是还有很大的优化空间的。
 况且Vue.use真的会带来很大的影响吗？
+
+实际止，在[awsome-vue](https://github.com/vuejs/awesome-vue)中有很多Plugin，这样的设计并不会对全局Vue产生性能的影响或者全局污染。因此为了写业务方便，善用Vue.use可以减少很多代码量，是一种有效提高效率的方式
+
+那么，怎么写一个可以在Vue.use中生效的插件呢？
+
+>[官网的示例](https://cn.vuejs.org/v2/guide/plugins.html)
+
+
