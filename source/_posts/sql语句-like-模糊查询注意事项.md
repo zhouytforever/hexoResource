@@ -6,8 +6,9 @@ tags:
 categories: Oracle
 ---
 
+```sql
 String sql = "select * from users where LNAME like '%+"+lname+"%'";
+--此处不可用PreparedStatement的setParam，一定要字符串拼接，否则会报错。
+```
 
-<span style="color: #ff0000;">//此处不可用PreparedStatement的setParam。一定要字符串拼接。</span>
 
-<span style="color: #ff0000;">否则会报错</span>

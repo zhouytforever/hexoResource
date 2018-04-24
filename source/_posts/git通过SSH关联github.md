@@ -6,6 +6,7 @@ tags:
 - SSH-key
 categories: Git
 ---
+
 今天本来想把博客弄好了，可是在git上遇到了问题，本机是ubuntu系统，虽然安装了git但是没有跟github关联。
 幸好看到如下博文：[git与github在ubuntu下的使用](http://www.cnblogs.com/cocowool/archive/2010/10/19/1855616.html "小狼的世界")
 我的操作步骤如下：
