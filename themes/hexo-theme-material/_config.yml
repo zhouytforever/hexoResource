@@ -232,8 +232,8 @@ comment:
     changyan_conf:
     changyan_thread_key_type: path
     livere_data_uid:
-    gitment_repo:  git@github.com:zhouytforever/hexoResource.git # git repo of the hexo
-    gitment_owner:  Joyt # git repo's owner
+    gitment_repo:  hexo-gitment # git repo of the hexo
+    gitment_owner:  zhouytforever # git repo's owner
     gitment_client_id:  65a39e93f410824d8e8a # github app client id
     gitment_client_secret : 8a790cccfe7f0849c1a27753714b9dc94e6c3da0 # github app client secret
     valine_leancloud_appId:  # leancloud application app id
