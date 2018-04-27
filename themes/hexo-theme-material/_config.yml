@@ -7,10 +7,10 @@ head:
     favicon: "/material/favicon.png"
     high_res_favicon: "/material/favicon.png"
     apple_touch_icon: "/material/favicon.png"
-    keywords:
+    keywords: YDC
     site_verification:
-        google:
-        baidu:
+        google: HI9qsuq9SFFl9-WhcAqOqn3VJQ0HoGdZweCTOzfgfxw
+        baidu: CKznZHPKws
 
     # Enable generate structured-data as JSON+LD for SEO or not.
     #    Set as 'false' if it cause some wrong when `hexo g`.
@@ -179,14 +179,14 @@ sns_share:
     googleplus: true
     weibo: true
     linkedin: false
-    qq: false
+    qq: true
     telegram: false
 
 # Sidebar Customize
 sidebar:
     dropdown:
         Email Me:
-            link: "#"
+            link: "mailto: zhouytforever@gmail.com"
             icon: email
     homepage:
         use: true
@@ -206,11 +206,11 @@ sidebar:
             #icon: person
             #divider: false
     article_num:
-        use: false
+        use: true
         divider: false
     footer:
-        divider: true
-        theme: true
+        divider: false
+        theme: false
         support: false
         feedback: false
         material: false
