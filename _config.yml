@@ -6,7 +6,7 @@
 title: RollingStone
 subtitle:
 description: 每一个不曾起舞的日子，都是对生命的辜负
-author: YuTing
+author: Joyt
 language: zh-CN
 timezone:
 
@@ -74,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-material 
+theme: hexo-theme-material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
