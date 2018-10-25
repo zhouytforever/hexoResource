@@ -52,7 +52,7 @@ Home Page: http://zhouytforever.github.io
 
 无人货架项目：
 > Vue + Iview + 百度地图Api 开发无人货架总后台系统
-> 期间开源代码生成工具`daneel`，并带新人一名
+> 期间开源代码生成工具[daneel](https://github.com/zhouytforever/daneel)，并带新人一名
 
 智能选址项目：
 > React-native 开发双平台选址APP。插旗画点、动态路径、多点聚合
